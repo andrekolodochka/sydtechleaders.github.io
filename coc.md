@@ -1,5 +1,5 @@
 ---
-title: Sydnet Tech Leaders Code of Conduct
+title: Sydney Tech Leaders Code of Conduct
 ---
 
 ## Code of Conduct
