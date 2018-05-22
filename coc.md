@@ -9,8 +9,15 @@ Harassment includes offensive verbal or written comments related to sex, gender 
 
 If a community member engages in harassing behaviour, the STL organisers may take any action they deem appropriate, including warning the offender or expulsion from the STL community. If you are being harassed please contact a STL organiser immediately. If you notice that someone else is being harassed please intercede or contact an STL organiser immediately. If you have any other concerns, please contact an STL organiser.
 
-Sydney Tech Leaders website: https://sydtechleaders.github.io
+[Reporting guidelines](/coc_reporting)
+
+### Contact Info
+Website: [sydtechleaders.github.io](https://sydtechleaders.github.io)
+
+Email: [sydtechleaders@gmail.com](mailto:sydtechleaders@gmail.com)
+
+
 
 If you have questions or feedback about this Code of Conduct please contact one of the organisers.
 
-STL organisers developed this Code of Conduct to govern all STL events and communication channels. We used the [PDX Python code of conduct](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/) as a guide, itself influenced by the [Geek Feminism Conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as a starting point. This Code of Conduct, like its inspirations, is licensed under the Creative Commons Zero license.
+STL organisers developed this Code of Conduct to govern all STL events and communication channels. We used the [PDX Python code of conduct](https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/) as a guide, itself influenced by the [Geek Feminism Conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as a starting point. This Code of Conduct, like its inspirations, is licensed under the [Creative Commons — CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license.
