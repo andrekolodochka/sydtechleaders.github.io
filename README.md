@@ -13,7 +13,7 @@ To join our group, visit [our page on Meetup.com](https://www.meetup.com/Syd-Tec
 We are currently looking for venue and catering sponsors for future events in Sydney. Please email sydtechleaders@gmail.com if you're interested in getting involved.
 
 ### Code of Conduct
-We have a [code of conduct](/coc) we ask all members of the Sydney Tech Leader community to adhere to.
+We have a [code of conduct](/coc) we require all members of the Sydney Tech Leader community to adhere to.
 
 ### Topics, Decks, and Notes
 
