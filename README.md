@@ -1,6 +1,6 @@
 **Sydney Technology Leaders** is a meetup group focused on Technology Leadership. A place for CTOs, Dev Managers, Directors and Team Leads (and those aspiring to those positions) to go and share ideas, discuss problems, network, and provide/receive mentoring. 
 
-Follow us on Twitter [@SydTechLeaders](https://twitter.com/SydTechLeaders).
+Follow us on Twitter [@SydTechLeaders](https://twitter.com/SydTechLeaders) or [Join our Slack Channel](https://docs.google.com/forms/d/1PNctNZE45Sj0bTRpmoRw4GKIaFWT_9lS10SBlZweiAg).
 
 Organisers: Owen Senior, Ted Tencza, Kris Howard, and David Edgar.
 
@@ -11,6 +11,9 @@ To join our group, visit [our page on Meetup.com](https://www.meetup.com/Syd-Tec
 ### Sponsoring
 
 We are currently looking for venue and catering sponsors for future events in Sydney. Please email sydtechleaders@gmail.com if you're interested in getting involved.
+
+### Code of Conduct
+We have a [code of conduct](/coc) we require all members of the Sydney Tech Leader community to adhere to.
 
 ### Topics, Decks, and Notes
 
