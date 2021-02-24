@@ -2,7 +2,7 @@
 
 Follow us on Twitter [@SydTechLeaders](https://twitter.com/SydTechLeaders) or [Join our Slack Channel](https://docs.google.com/forms/d/1PNctNZE45Sj0bTRpmoRw4GKIaFWT_9lS10SBlZweiAg).
 
-Organisers: Owen Senior, Ted Tencza, Kris Howard, David Edgar, and Hannah Yan Field.
+Organisers: Owen Senior, Anne-Marie Charrett, Kris Howard, Nigel Gardiner, and David Edgar.
 
 ### Joining the group
 
