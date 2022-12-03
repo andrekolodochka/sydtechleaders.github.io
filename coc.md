@@ -11,9 +11,11 @@ Community members are not to use Sydney Tech Leader meetings or communication ch
 
 Community members asked to stop any harassing behaviour are expected to comply immediately. Sponsors and presenters are also subject to the anti-harassment policy.
 
- 
-
 If a community member engages in harassing behaviour, the STL organisers may take any action they deem appropriate, including warning the offender or expulsion from the STL community. If you are being harassed please contact a STL organiser immediately. If you notice that someone else is being harassed please intercede or contact an STL organiser immediately. If you have any other concerns, please contact an STL organiser.
+
+STL organisers may, at their discretion, treat breaches of our code of conduct in other communities as if they occured within STL-run community events. Patterns of bahaviour within peer groups of STL will be treated as if they occured within STL. 
+
+STL organisers may, at their discretion, notify peer groups of breaches of our code of conduct if deemed appropriate.
 
 [Reporting guidelines](/coc_reporting)
 
